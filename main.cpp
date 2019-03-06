@@ -5,7 +5,7 @@
 //  Created by Kashish Jagtiani on 01/12/18.
 
 
-//--------------------------------------------------------------------------------------------------------------------------------//
+//------------------------------------------------------------------------------------------------------------------------------------------------------------//
 //                                                          NOTES AND ASSUMPTIONS:
 // - Build an m-by-n (row-by-column) matrix to manipulate its data (max size: 8-by-8)
 // - The numbers (data) inside the matrix will be referred to as "id"
@@ -25,7 +25,7 @@
 // 3. Up Circular Shift: A particular column of a matrix performs a circular shift upward by one cell.
 // 4. Down Circular Shift: A particular column of a matrix performs a circular shift downward by one cell.
 // 5. Reverse Row: A particular row of a matrix is flipped.
-
+//------------------------------------------------------------------------------------------------------------------------------------------------------------//
 #include "matrix.h"
 int main() {
     {
